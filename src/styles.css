@@ -1,0 +1,179 @@
+/* You can add global styles to this file, and also import other style files */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0 0 var(--header-height) 0;
+    font-family: var(--body-font);
+    font-size: var(--normal-font-size);
+    background: var(--body-color);
+    color: var(--text-color);
+    transition: .2s;
+}
+
+:root{
+    --header-height: 3rem;
+
+    --hue-color: 230;
+
+    --primary-color: hsl(var(--hue-color), 69%, 61%);
+    --secondary-color: hsl(var(--hue-color), 69%, 61%);
+    --primary-alt-color: hsl(var(--hue-color), 57%, 53%);
+    --primary-color-light: hsl(var(--hue-color), 92%, 85%);
+    --title-color: hsl(var(--hue-color), 8%, 15%);
+    --text-color: hsl(var(--hue-color), 8%, 45%);
+    --text-color-light: hsl(var(--hue-color), 8%, 65%);
+    --input-color: hsl(var(--hue-color), 70%, 96%);
+    --body-color: hsl(var(--hue-color), 60%, 99%);
+    --container-color: #e7e8e9;
+
+    --body-font: 'Poppins', sans-serif;
+
+    --big-font-size: 2rem;
+    --h1-font-size: 1.5rem;
+    --h2-font-size: 1.25rem;
+    --h3-font-size: 1.125rem;
+    --normal-font-size: .938rem;
+    --small-font-size: .831rem;
+    --smaller-font-size: .75rem;
+
+    --font-medium: 500;
+    --font-semi-bold: 600;
+
+/* z index
+    z-tooltip: 10
+    z-fixed: 100
+    zmodel: 100 */
+
+    @media screen and (min-width: 968px) {
+        :root{
+            --big-font-size: 3rem;
+            --h1-font-size: 2.25rem;
+            --h2-font-size: 1.5rem;
+            --h3-font-size: 1.25rem;
+            --normal-font-size: 1rem;
+            --small-font-size: .875rem;
+            --smaller-font-size: .813rem;
+        }
+
+    }
+
+}
+
+body.dark-theme{
+  --secondary-color: hsl(var(--hue-color), 30%, 8%);
+  --title-color: hsl(var(--hue-color), 8%, 95%);
+  --text-color: hsl(var(--hue-color), 8%, 75%);
+  --input-color: hsl(var(--hue-color), 29%, 16%);
+  --body-color: hsl(var(--hue-color), 28%, 12%);
+  --container-color: hsl(var(--hue-color), 29%, 16%);
+}
+
+h1, h2, h3, h4{
+  color: var(--title-color);
+  font-weight: var(--font-semi-bold);
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.section{
+  padding: 2rem 0 3rem;
+}
+
+.section__title{
+  font-size: var(--h1-font-size);
+}
+
+.section__subtitle{
+  display: block;
+  font-size: var(--small-font-size);
+  margin-bottom: 3rem;
+}
+.section__title,
+.section__subtitle{
+  text-align: center;
+}
+
+.container{
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  max-width: 1500px;
+}
+
+.grid{
+  display: grid;
+  gap: 1.5rem;
+}
+
+ul{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+.button{
+display: inline-block;
+background: var(--primary-color);
+color: #ffffff;
+padding: 1rem;
+border-radius: .5rem;
+font-weight: var(--font-medium);
+}
+
+.button:hover{
+background: var(--primary-alt-color);
+}
+
+.button--flex{
+display: inline-flex;
+align-items: center;
+}
+
+.button__icon{
+font-size: 1.25rem;
+margin-left: .5rem;
+transition: .3s;
+}
+
+@media screen and (max-width: 350px){
+  .container{
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}
+
+@media screen and (min-width: 768px){
+
+  body{
+    margin: 0;
+  }
+  .section{
+    padding: 2rem 0 6rem;
+  }
+  .section__subtitle{
+    margin-bottom: 4rem;
+  }
+
+}
+
+@media screen and (min-width: 1024px){
+
+  .container{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+}
+
