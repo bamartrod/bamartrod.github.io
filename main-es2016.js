@@ -999,7 +999,7 @@ class PortfolioComponent {
     }
 }
 PortfolioComponent.ɵfac = function PortfolioComponent_Factory(t) { return new (t || PortfolioComponent)(); };
-PortfolioComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: PortfolioComponent, selectors: [["app-portfolio"]], decls: 26, vars: 0, consts: [["id", "portfolio", 1, "portfolio", "section"], [1, "section__title"], [1, "section__subtitle"], [1, "portfolio__container", "container", "grid"], [1, "portfolio__card"], [1, "card__img"], ["src", "assets/img/Social.png", "alt", ""], [1, "card__content"], ["href", "https://brandonmartinez-jar.github.io/Social-media-dashboard/"], ["src", "assets/img/Portfolio.png", "alt", ""], ["href", "https://brandonmartinez-jar.github.io/"]], template: function PortfolioComponent_Template(rf, ctx) { if (rf & 1) {
+PortfolioComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: PortfolioComponent, selectors: [["app-portfolio"]], decls: 26, vars: 0, consts: [["id", "portfolio", 1, "portfolio", "section"], [1, "section__title"], [1, "section__subtitle"], [1, "portfolio__container", "container", "grid"], [1, "portfolio__card"], [1, "card__img"], ["src", "assets/img/Social.png", "alt", ""], [1, "card__content"], ["href", "https://play.google.com/store/apps/details?id=co.com.porvenir.appmobile&hl=es_CO&gl=US"], ["src", "assets/img/Portfolio.png", "alt", ""], ["href", "https://brandonmartinez-jar.github.io/"]], template: function PortfolioComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h2", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Portfolio");
@@ -1014,10 +1014,10 @@ PortfolioComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefin
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "div", 7);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "h2");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Social Media Dashboard");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Provenir App Mobile");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, "This is a frontend experiment from devchallenges.io");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, "This is a financial application for managing savings required by law in Colombia");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "a", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, "Demo");
