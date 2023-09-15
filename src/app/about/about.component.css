@@ -72,9 +72,15 @@ img{
   .about__img{
     height: 200px;
   }
+  .about__description{
+    padding: 10px;
+  }
+  .about__container{
+    padding: 25px;
+  }
 }
 
-@media screen and (min-width: 700px){
+@media screen and (min-width: 701px){
 
   .about__container{
     grid-template-columns: repeat(2, 1fr);
@@ -83,6 +89,10 @@ img{
     padding: 1rem;
     column-gap: 2rem;
   }
+  .about__description{
+    padding: 10px;
+  }
+
 }
 
 @media screen and (min-width: 1024px){

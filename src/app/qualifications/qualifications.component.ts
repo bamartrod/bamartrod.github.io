@@ -46,19 +46,6 @@ export class QualificationsComponent implements OnInit {
       }
     }
 
-    console.log(e);
-    // if (e.id === 'education') {
-    //   if (!e.classList.contains('qualification__active')) {
-    //     const work = document.getElementById('work');
-    //     work.classList.remove('qualification__active')
-    //   }
-    // }else{
-    //   if (!e.classList.contains('qualification__active')) {
-    //     const education = document.getElementById('education');
-    //     education.classList.remove('qualification__active')
-    //   }
-    // }
-
   }
 
   ngOnInit(): void {

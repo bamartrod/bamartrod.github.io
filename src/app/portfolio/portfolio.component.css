@@ -44,8 +44,10 @@
 .portfolio__img{
   width: 400px;
   height: 250px;
-  object-fit: cover;
   transition: .5s;
+}
+.portfolio__img img{
+  object-fit: cover;
 }
 .portfolio__img img{
   width: 100%;

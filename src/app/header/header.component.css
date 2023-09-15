@@ -6,6 +6,7 @@
     z-index: 100;
     background: var(--body-color);
     transition: .2s;
+    box-shadow: 0 25px 25px rgba(0, 0, 0, .05);
 }
 
 .container{
