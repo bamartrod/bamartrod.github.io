@@ -1,0 +1,322 @@
+{
+  "basics": {
+    "name": "Brandon Martínez",
+    "label": "Software Engineer",
+    "image": "https://avatars.githubusercontent.com/u/76891236?v=4",
+    "email": "jontex14@gmail.com",
+    "phone": "+573213779856",
+    "url": "https://bamartrod.github.io/",
+    "summary": "+ 5 years experience as a software engineer building effective communication between clients and team members, encouraging quality-based and performance-mindset promoting Scrum good practices and fostering collaboration with initiatives for performance improvement and reducing project dependencies.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Remote",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "brandonmartinez-jar",
+        "url": "https://www.linkedin.com/in/brandonmartinez-jar/"
+      },
+      {
+        "network": "GitHub",
+        "username": "bamartrod",
+        "url": "https://github.com/bamartrod"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "NTT DATA",
+      "position": "Software Engineer",
+      "url": "https://www.linkedin.com/company/ntt-data-europe-latam",
+      "startDate": "2021-11-22",
+      "endDate": null,
+      "summary": "Develop Java Spring microservices for backend core features or middleware architecture with database communications (OracleSQL & MongoDB) and HTTP consumption to other services (REST & SOAP). Promotion of openapiGenerate technology to encourage API-first development. This initiative aimed to keep the team equipped with detailed and updated documentation. Encourage the creation of Test-Driven Development (TDD) using MVCTest, MockWebServer, and H2 enabling team members to develop with confidence in prior functionality and obviating the need for a comprehensive pre- and post-development legacy functional testing plan. Increase the development team's performance by promoting pair programming sessions to collectively address issues hindering progress and document solutions.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Indra",
+      "position": "Software Engineer",
+      "url": "https://www.linkedin.com/company/indra/",
+      "startDate": "2021-05-05",
+      "endDate": "2021-11-22",
+      "summary": "Mobile network backend support built in Jakarta EE and Oracle SQL. Intermediary between team members for managing dependencies with the client, maintaining assertive communication to prioritize value delivery, and optimizing team performance. Multiple sprint stars for collaborative work with the QA and DevOps team for interaction with Oracle WebLogic deployment technologies.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "CORPMAD",
+      "position": "Software Developer",
+      "url": "https://www.facebook.com/CORPMAD/",
+      "startDate": "2019-01-02",
+      "endDate": "2021-05-05",
+      "summary": "Administrative software development with Angular, Java Spring & MySQL. +100 single mothers coached to start a digital transition of their entrepreneurship and basic computing skills",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-02",
+    "endDate": "2013-01-02",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "UNAD University",
+    "url": "https://www.linkedin.com/school/universidadunad/",
+    "area": "Systems Engineering",
+    "studyType": "Bachelor",
+    "startDate": "2017-01-02",
+    "endDate": "2025-01-02",
+    "score": "4.2",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "Fast learner",
+      "level": "Master",
+      "keywords": [
+        "Soft skills"
+      ]
+    },
+    {
+      "name": "Strategic planning",
+      "level": "Master",
+      "keywords": [
+        "Soft skills"
+      ]
+    },
+    {
+      "name": "Team-player",
+      "level": "Advanced",
+      "keywords": [
+        "Soft skills"
+      ]
+    },
+    {
+      "name": "Learn mindset",
+      "level": "Advanced",
+      "keywords": [
+        "Soft skills"
+      ]
+    },
+    {
+      "name": "Abstract thinking",
+      "level": "Advanced",
+      "keywords": [
+        "Soft skills"
+      ]
+    },
+    {
+      "name": "Adaptability",
+      "level": "Advanced",
+      "keywords": [
+        "Soft skills"
+      ]
+    },
+    {
+      "name": "Agile principles",
+      "level": "Advanced",
+      "keywords": [
+        "Soft skills"
+      ]
+    },
+    {
+      "name": "Problem-solving",
+      "level": "Advanced",
+      "keywords": [
+        "Soft skills"
+      ]
+    },
+    {
+      "name": "Mentoring",
+      "level": "Advanced",
+      "keywords": [
+        "Soft skills"
+      ]
+    },
+    {
+      "name": "Coaching",
+      "level": "Advanced",
+      "keywords": [
+        "Soft skills"
+      ]
+    },
+    {
+      "name": "Active Listening",
+      "level": "Advanced",
+      "keywords": [
+        "Soft skills"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Advanced",
+      "keywords": [
+        "Programming language"
+      ]
+    },
+    {
+      "name": "Spring Framework",
+      "level": "Advanced",
+      "keywords": [
+        "Backend Framework"
+      ]
+    },
+    {
+      "name": "Azure",
+      "level": "Advanced",
+      "keywords": [
+        "Cloud computing"
+      ]
+    },
+    {
+      "name": "SQL (MySQL & Oracle)",
+      "level": "Advanced",
+      "keywords": [
+        "Relational database"
+      ]
+    },
+    {
+      "name": "NoSQL (MongoDB)",
+      "level": "Advanced",
+      "keywords": [
+        "Non-Relational database"
+      ]
+    },
+    {
+      "name": "API first development",
+      "level": "Advanced",
+      "keywords": [
+        "Goof practices"
+      ]
+    },
+    {
+      "name": "Test Driven Development (TDD)",
+      "level": "Advanced",
+      "keywords": [
+        "Goof practices"
+      ]
+    },
+    {
+      "name": "Hexagonal Architecture",
+      "level": "Advanced",
+      "keywords": [
+        "Goof practices"
+      ]
+    },
+    {
+      "name": "SOLID principles",
+      "level": "Advanced",
+      "keywords": [
+        "Goof practices"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Scotiabank ",
+      "isActive": true,
+      "description": "Backend development for bank collection features",
+      "highlights": [
+        "+11M Colombian users", "private code"
+      ],
+      "url": "https://www.linkedin.com/company/scotiabank/",
+      "github": ""
+    },
+    {
+      "name": "Porvenir",
+      "isActive": true,
+      "description": "Backend development for Mobile App",
+      "highlights": [
+        "+12M Colombian users", "public app"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=co.com.porvenir.appmobile",
+      "github": ""
+    },
+    {
+      "name": "Scotiabank",
+      "isActive": true,
+      "description": "Bank backend middleware migration",
+      "highlights": [
+        "+11M Colombian users", "private code"
+      ],
+      "url": "https://www.linkedin.com/company/scotiabank/",
+      "github": ""
+    },
+    {
+      "name": "Bogota's Bank",
+      "isActive": true,
+      "description": "Bank backend core migration",
+      "highlights": [
+        "+19M Colombian users", "private code"
+      ],
+      "url": "https://www.linkedin.com/company/banco-de-bogota/",
+      "github": ""
+    },
+    {
+      "name": "Banco Popular",
+      "isActive": true,
+      "description": "Bank backend lambda development",
+      "highlights": [
+        "+5M Colombian users", "private code"
+      ],
+      "url": "https://www.linkedin.com/company/banco-popular/",
+      "github": ""
+    }
+  ]
+}
