@@ -1,104 +1,64 @@
+# About me
++5 years experience as a software engineer building effective communication between clients and team members, encouraging quality-based and performance-mindset promoting Scrum good practices, and fostering collaboration with initiatives for performance improvement and reducing project dependencies.
 
+## Software Engineer at NTT DATA (Most recent work experience)
+November 2021 - Present ( Remote, Bogotá, Colombia ) ( IT Consulting services )
 
-<div align="center"> 
-<img src="logo.png" height="90px" width="auto" /> 
-<h2>
-    <em>Résumé</em> minimalista maquetado para web y pdf
-</h2>
-<p>
-Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
-</p>
+### Responsibilities:
+- Coach and mentor the team's quality-based mindset and Kubernetes usage
+- Identify and prioritize engineering initiatives to improve performance bottlenecks, and reduce dependencies.
+- Promote good practices in Scrum methodology, enhancing team performance and fostering mutual work-team collaboration.
+- Effective communication while closely collaborating with team members and clients to objectively analyze their requirements, identify potential issues considering the current project architecture, and make informed decisions to formulate viable solutions.
+- Develop Java Spring microservices for backend core features or middleware architecture with database communications (OracleSQL & MongoDB) and HTTP consumption to other services (REST & SOAP).
 
+### Key accomplishments
+- Promotion of openapiGenerate technology to encourage API-first development. This initiative aimed to keep the team equipped with detailed and updated documentation.
+- Encourage the creation of Test-Driven Development (TDD) using MVCTest, MockWebServer, and H2 enabling team members to develop with confidence in prior functionality and obviating the need for a comprehensive pre- and post-development legacy functional testing plan.
+- Increase the development team's performance by promoting pair programming sessions to collectively address issues hindering progress and document solutions.
 
-<p>
-Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
+## Software Engineer at Indra
+May 2021 - Nov 2021 ( Remote, Bogotá, Colombia ) ( IT Consulting services )
 
-</p>
+### Responsibilities
+- Intermediary between team members for managing dependencies with the client, maintaining assertive communication to prioritize value delivery, and optimizing team performance.
+- Mobile network backend support built in Jakarta EE and Oracle SQL
+### Key accomplishments
+- Multiple sprint stars for collaborative work with the QA and DevOps team for interaction with Oracle WebLogic deployment technologies.
 
-</div>
+## Software Developer at CORPMAD
+### Responsibilities
+- Administrative software development with Angular, Java Spring & MySQL
+### Key accomplishments
+- +100 single mothers coached to start a digital transition of their entrepreneurship and basic computing skills
 
-<div align="center">
-    <a href="#🚀-empezar">
-        Empezar
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#🧞-comandos">
-        Comandos
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#🔑-licencia">
-        Licencia
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="https://midu.dev">
-        Personal
-    </a>
-   
-</div>
+# Skills resume
+- Soft skills: Learn mindset and high adaptability, coaching and mentoring, strategic planning and abstract thinking
+- Backend: Java Spring Framework
+- Databases: SQL (Oracle) and NoSQL (MongoDB)
+- Architecture: Data Structures, SOLID principles, Design patterns, Hexagonal architecture and Algorithm complexity
+- Good Practices: Java docs, Swagger, Test Driven Development, SonarQube
+- DevOps Tools: Docker, Kubernetes, Git & ( Github | Gitlab | Bitbucket )
 
-<p></p>
+# Education
+### Systems Engineering at UNAD University
+2017 - 2025 ( Remote, Colombia )
 
-<div align="center">
+- Progress: 90% (133/149 approved credits)
+- Grades average: 4.2/5.0
+- Studying: 11 credits
 
-![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/midudev/minimalist-portfolio-json)
-![GitHub issues](https://img.shields.io/github/issues/midudev/minimalist-portfolio-json)
-![GitHub forks](https://img.shields.io/github/forks/midudev/minimalist-portfolio-json)
-![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/minimalist-portfolio-json)
+### English B2 certified at EF
+April 2024 ( Remote, Worldwide )
+- The achieved English level is 58/100 on the EF SET score scale and B2 Upper Intermediate according to the Common European Framework of Reference (CEFR)
 
-</div>
+# Certifications
+- 2023: AZ-305 Azure Solutions Architect Expert - Udemy Business
+- 2023: Effective and Assertive Communication - Udemy Business
+- 2022: Azure Fundamentals - Microsoft
+- 2021: Java University - Undemy Business
+- 2021: SQL - Udemy Business
 
-<img src="portada.png"></img>
-
-## 🛠️ Stack
-
-- [**Astro**](https://astro.build/) - El framework web de la nueva época.
-- [**Typescript**](https://www.typescriptlang.org/) - JavaScript con sintaxis de tipado.
-- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Menu desplegable con atajos de teclado hecho en puro Javascript.
-
-
-## 🚀 Empezar
-
-### 1. Usa este [repo](https://github.com/midudev/minimalist-portfolio-json) como _template_ de un proyecto de Astro
-
-
-- Yo uso [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador.
-
-```bash
-# Activa pnpm en MacOS, WSL & Linux:
-corepack enable
-corepack prepare pnpm@latest --activate
-
-# Inicializa el proyecto
-pnpm create astro@latest -- --template midudev/minimalist-portfolio-json
-```
-
-### 2. Añade tu contenido:
-Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
-### 3. Lanza el servidor de desarrollo:
-
-```bash
-# Disfruta del resultado
-pnpm dev
-```
-
-
-1. Abre [**http://localhost:4321**](http://localhost:4321/) en tu navegador para ver el resultado 🚀
-
-
-## 🧞 Comandos
-
-|     | Comando          | Acción                                        |
-| :-- | :--------------- | :-------------------------------------------- |
-| ⚙️  | `dev` o `start` | Lanza un servidor de desarrollo local en  `localhost:4321`.  |
-| ⚙️  | `build`          | Comprueba posibles errores y hace un empaquetado de producción en `./dist/`.      |
-| ⚙️  | `preview`        | Vista previa en local `localhost:4321` |
-
-
-
-## 🔑 Licencia
-
-[MIT](LICENSE.txt) - Creado por [**midudev**](https://midu.dev).
-
-
-
+# Now Learning
+- Language: English at EF
+- Cloud: AZ-305 Azure Solutions Architect Expert (Microsoft)
+- Coding: Advanced Data Structures & Algorithms (CodeChef)
