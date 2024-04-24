@@ -40,7 +40,7 @@ May 2021 - Nov 2021 ( Remote, Bogotá, Colombia ) ( IT Consulting services )
 - DevOps Tools: Docker, Kubernetes, Git & ( Github | Gitlab | Bitbucket )
 
 # Education
-### Systems Engineering at UNAD University
+### Systems Engineering at UNAD University.
 2017 - 2025 ( Remote, Colombia )
 
 - Progress: 90% (133/149 approved credits)
